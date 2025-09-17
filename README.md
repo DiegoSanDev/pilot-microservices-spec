@@ -18,7 +18,7 @@ O sistema é composto por **três microserviços**, todos organizados seguindo o
   - `controller` - Recebe requisições REST.  
   - `service` - Lógica de negócio e validações.  
   - `repository` - Persistência com JDBI.  
-  - `model` - Entidades e DTOs.  
+  - `model` - Entidades.  
 
 ### 2. orch-pagamento (orquestração Camel)
 - Serviço de orquestração que gerencia o fluxo do pagamento.  
