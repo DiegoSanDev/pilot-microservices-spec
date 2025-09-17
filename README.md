@@ -9,7 +9,7 @@ O objetivo é praticar conceitos de **orquestração, persistência, documentaç
 
 ## Arquitetura
 O sistema é composto por **três microserviços**, todos organizados seguindo o **padrão MVC**:  
-https://app.diagrams.net/#HDiegoSanDev%2Fpilot-microservices-spec%2Fmain%2Fpilot-microservices-spec.drawio#%7B%22pageId%22%3A%22fyUFWXQDam92N-3A2XyD%22%7D
+
 ### 1. atom-pagamento (persistência de pagamentos)
 - Responsável por salvar e consultar pagamentos.  
 - Endpoints RESTful documentados com **OpenAPI**.  
